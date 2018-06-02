@@ -1,0 +1,6 @@
+C:\Users\un4ckn0wl3z-level99\source\repos\SocketClientStarter\SocketClientStarter\bin\Debug\SocketClientStarter.exe.config
+C:\Users\un4ckn0wl3z-level99\source\repos\SocketClientStarter\SocketClientStarter\bin\Debug\SocketClientStarter.exe
+C:\Users\un4ckn0wl3z-level99\source\repos\SocketClientStarter\SocketClientStarter\bin\Debug\SocketClientStarter.pdb
+C:\Users\un4ckn0wl3z-level99\source\repos\SocketClientStarter\SocketClientStarter\obj\Debug\SocketClientStarter.csproj.CoreCompileInputs.cache
+C:\Users\un4ckn0wl3z-level99\source\repos\SocketClientStarter\SocketClientStarter\obj\Debug\SocketClientStarter.exe
+C:\Users\un4ckn0wl3z-level99\source\repos\SocketClientStarter\SocketClientStarter\obj\Debug\SocketClientStarter.pdb

@@ -1,0 +1,7 @@
+C:\Users\un4ckn0wl3z-level99\source\repos\SocketServerStarter\SocketServerStarter\bin\Debug\SocketServerStarter.exe.config
+C:\Users\un4ckn0wl3z-level99\source\repos\SocketServerStarter\SocketServerStarter\bin\Debug\SocketServerStarter.exe
+C:\Users\un4ckn0wl3z-level99\source\repos\SocketServerStarter\SocketServerStarter\bin\Debug\SocketServerStarter.pdb
+C:\Users\un4ckn0wl3z-level99\source\repos\SocketServerStarter\SocketServerStarter\obj\Debug\SocketServerStarter.csprojResolveAssemblyReference.cache
+C:\Users\un4ckn0wl3z-level99\source\repos\SocketServerStarter\SocketServerStarter\obj\Debug\SocketServerStarter.csproj.CoreCompileInputs.cache
+C:\Users\un4ckn0wl3z-level99\source\repos\SocketServerStarter\SocketServerStarter\obj\Debug\SocketServerStarter.exe
+C:\Users\un4ckn0wl3z-level99\source\repos\SocketServerStarter\SocketServerStarter\obj\Debug\SocketServerStarter.pdb
